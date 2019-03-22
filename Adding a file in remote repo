@@ -3,6 +3,10 @@ adding this line after i have pulled/fetched the first line
 Tried to fetch and merge to see whether the above line was merged with 1st line
 <<<<<<< Updated upstream
 Changing in remote repository
+<<<<<<< HEAD
 =======
 Making changes in local repository
 >>>>>>> Stashed changes
+=======
+Hi...
+>>>>>>> f9eed9287c38a6af86f1e95cd885098d72f3d9b8
