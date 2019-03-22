@@ -1,0 +1,1 @@
+After pushing 6 files to remote repository I am adding this file again in local repository.
